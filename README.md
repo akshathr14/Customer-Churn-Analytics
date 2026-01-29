@@ -10,9 +10,9 @@ This project develops an interactive dashboard to identify and quantify the prim
 
 ### Project Structure
 Organized for reproducibility and professional review:
-* **/Data**: Contains the raw CSV source file.
-* **/Dashboard**: Contains the interactive Tableau (.twbx) file for full drill-down analysis.
-* **/Images**: Stores visual assets for documentation.
+* **Data**: Contains the raw CSV source file.
+* **Dashboard**: Contains the interactive Tableau (.twbx) file for full drill-down analysis.
+* **Images**: Stores visual assets for documentation.
 
 ### Key Business Insights
 * **Contractual Risk:** Identified that customers on month-to-month contracts exhibit the highest churn volatility (43%), suggesting a need for long-term incentive alignment.
