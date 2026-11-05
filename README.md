@@ -1,4 +1,4 @@
-# Telco Customer Churn: Predictive Exploratory Data Analysis
+# Telco Customer Churn Analytics: Tableau Dashboard
 
 ### Executive Summary
 This project develops an interactive dashboard to identify and quantify the primary drivers of customer attrition within the telecommunications sector. By analyzing a dataset of 7,043 customers, the dashboard isolates high-risk cohorts to inform data-driven retention strategies.
